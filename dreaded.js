@@ -192,7 +192,7 @@ function _0x11cc() {
         '184473FwtnYZ',
         '18szWhmE',
         'startsWith',
-        '𝐎𝐖𝐋 𝐀𝐈\x20an',
+        '𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 \x20an',
         '376590puyzhN',
         'key'
     ];
